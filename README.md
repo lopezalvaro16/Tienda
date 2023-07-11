@@ -1,8 +1,5 @@
 <h1 align="center">Tienda - Página web de una tienda virtual de ropa</h1>
 
-<p align="center">
-  <img src="[https://link-a-tu-imagen](https://static.vecteezy.com/system/resources/previews/005/439/330/non_2x/sneaker-store-logo-template-black-and-white-vector.jpg)" alt="Logo de la tienda">
-</p>
 
 <p align="center">
   <strong>Este proyecto es una página web denominada "Tienda" que funciona como una tienda virtual de ropa.</strong>
